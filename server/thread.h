@@ -31,7 +31,6 @@ struct thread_apc;
 struct debug_obj;
 struct debug_event;
 struct msg_queue;
-struct completion_wait;
 
 enum run_state
 {
